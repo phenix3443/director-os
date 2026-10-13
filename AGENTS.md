@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 通用规则见 `~/.claude/CLAUDE.md`。产品设计见 `docs/`，按编号读。
 
